@@ -1,0 +1,8 @@
+# vector based graphics:
+*.pdf
+*.svg
+
+# conventional presentations:
+*.ods
+*.ppt
+*.pptx
