@@ -1,0 +1,12 @@
+# data files:
+*.csv
+*.zip
+
+# vector based graphics:
+*.pdf
+*.svg
+
+# conventional presentations:
+*.ods
+*.ppt
+*.pptx
